@@ -1,4 +1,4 @@
- # Project: Deploying a Web Server in Azure.
+ # Project: Deploying infrac in Azure.
 
 ## Objective
 
